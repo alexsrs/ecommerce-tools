@@ -8,4 +8,3 @@ async function createQrCode() {
 }
 
 export default createQrCode;
-1
